@@ -14,11 +14,6 @@ const projects = [
     githubLink: "https://github.com/Nazarovfarhod/nazarovfarhod-user-card",
     vercelLink: "nazarovfarhod-user-card.vercel.app",
   },
-  {
-    title: "Pixer",
-    githubLink: "https://github.com/Nazarovfarhod/Pixer-website",
-    vercelLink: "pixcer-web-site.vercel.app",
-  },
 ];
 
 const template = document.querySelector("template");
